@@ -1,4 +1,4 @@
-# leampd-and-friends
+# LEMP/LAMP and Friends Dockerized
 Your standard LAMP/LEMP stack and friends - Dockerized!
 
 ## Requirements
@@ -12,5 +12,5 @@ Your standard LAMP/LEMP stack and friends - Dockerized!
 4. Run `docker-compose up`
 
 ## To-do
-- [] Make each installation configurable
-- [] Add more friends
+- [ ] Make each installation configurable
+- [ ] Add more friends
